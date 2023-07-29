@@ -18,11 +18,12 @@ React, react-router, redux/react-context, Firebase, sass, & etc.
 
 ### Screenshots
 
-![Screenshot (417)](https://github.com/Sina-Hgs/ecommerce-react-project/assets/103804601/e4e83a1a-066a-4b69-a17e-37f241e67389)
+![category page](https://github.com/Sina-Hgs/ecommerce-react-project/assets/103804601/d95d8d67-0e22-497f-aae2-c442501fbe28)
+
 
 ***
 
-![Screenshot (419)](https://github.com/Sina-Hgs/ecommerce-react-project/assets/103804601/e160baa1-a284-46c8-8940-cd5739d08baf)
+![sign up page](https://github.com/Sina-Hgs/ecommerce-react-project/assets/103804601/e6bcd4cc-08d7-4b33-a74d-aefe2512ad5f)
 
 
 ## Available Scripts
