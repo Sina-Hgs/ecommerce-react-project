@@ -2,7 +2,7 @@
 
 This is a fully functional clothing e-commerce app made with **_React_** & **_Firebase_**. The user can browse the categories and items at different routes, add and delete items to the cart, sign-up/log-in using email and password or _Google_ account (made possible using Firebase), and see/edit their total payment sum and selected items at the checkout page. 
 
-The app has a minimal and simple style as I was mostly concerned with functionality of the app at the time of making it.
+The app has a minimal and not fully responsive style (for now) as I was mostly concerned with the functionality (logic) of the app at the time of making it; to see a fully responsively styled app made by me, please check out my other projects as there are plenty made with attention to both functionalty (app logic) and styling.
 
 There are two versions (branches) of this app, one made with **redux** and one with **react context**. The deployed link is the _redux_ version which is more complete than the context version as I've decided to go with redux in the end.
 
